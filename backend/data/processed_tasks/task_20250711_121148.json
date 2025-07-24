@@ -1,0 +1,53 @@
+{
+  "task_id": "task_20250711_121148",
+  "timestamp": "2025-07-11T12:11:48.256657",
+  "audio_filename": "recording_20250711_121147.wav",
+  "transcription": "Task, test 2 prototype, category maintenance, user bob deadline Saturday.",
+  "task_data": {
+    "title": "test 2",
+    "assignee": "Bob",
+    "category": "Maintenance",
+    "deadline": "2025-07-05T00:00:00",
+    "success": true,
+    "errors": [],
+    "assignee_similarity": [
+      [
+        "Bob",
+        1.0
+      ],
+      [
+        "Alice",
+        0.0
+      ],
+      [
+        "Charlie",
+        0.0
+      ],
+      [
+        "Ali",
+        0.0
+      ]
+    ],
+    "category_similarity": [
+      [
+        "Maintenance",
+        0.55
+      ],
+      [
+        "Inspection",
+        0.20512820512820512
+      ],
+      [
+        "Construction",
+        0.1951219512195122
+      ]
+    ]
+  },
+  "processing_metadata": {
+    "audio_file_path": "data/audio_cache/recording_20250711_121147.wav",
+    "audio_file_size": 1031084,
+    "processing_timestamp": "2025-07-11T12:11:48.256640",
+    "pipeline_version": "1.0"
+  },
+  "status": "processed"
+}

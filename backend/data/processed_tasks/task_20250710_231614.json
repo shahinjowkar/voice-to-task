@@ -1,0 +1,53 @@
+{
+  "task_id": "task_20250710_231614",
+  "timestamp": "2025-07-10T23:16:14.516471",
+  "audio_filename": "recording_20250710_231613.wav",
+  "transcription": "Task test if I can say category before actually saying category this is a test category maintenance user Ali deadline Friday",
+  "task_data": {
+    "title": "test if I can say",
+    "assignee": "Ali",
+    "category": "before actually saying category this is test category maintenance user Ali",
+    "deadline": "2025-07-11T00:00:00",
+    "success": true,
+    "errors": [],
+    "assignee_similarity": [
+      [
+        "Ali",
+        1.0
+      ],
+      [
+        "Alice",
+        0.75
+      ],
+      [
+        "Charlie",
+        0.6
+      ],
+      [
+        "Bob",
+        0.0
+      ]
+    ],
+    "category_similarity": [
+      [
+        "Maintenance",
+        0.25882352941176473
+      ],
+      [
+        "Construction",
+        0.13953488372093023
+      ],
+      [
+        "Inspection",
+        0.11904761904761904
+      ]
+    ]
+  },
+  "processing_metadata": {
+    "audio_file_path": "data/audio_cache/recording_20250710_231613.wav",
+    "audio_file_size": 996524,
+    "processing_timestamp": "2025-07-10T23:16:14.516451",
+    "pipeline_version": "1.0"
+  },
+  "status": "processed"
+}

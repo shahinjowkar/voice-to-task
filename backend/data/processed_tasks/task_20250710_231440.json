@@ -1,0 +1,55 @@
+{
+  "task_id": "task_20250710_231440",
+  "timestamp": "2025-07-10T23:14:40.425476",
+  "audio_filename": "recording_20250710_231438.wav",
+  "transcription": "Task, go to the construction site and fix some issues, category construction, user bob, deadline next Friday.",
+  "task_data": {
+    "title": "go to construction site and fix some issues",
+    "assignee": "Bob",
+    "category": "Construction",
+    "deadline": null,
+    "success": true,
+    "errors": [
+      "Could not parse deadline: next Friday ."
+    ],
+    "assignee_similarity": [
+      [
+        "Bob",
+        1.0
+      ],
+      [
+        "Alice",
+        0.0
+      ],
+      [
+        "Charlie",
+        0.0
+      ],
+      [
+        "Ali",
+        0.0
+      ]
+    ],
+    "category_similarity": [
+      [
+        "Construction",
+        0.7272727272727273
+      ],
+      [
+        "Inspection",
+        0.45161290322580644
+      ],
+      [
+        "Maintenance",
+        0.125
+      ]
+    ]
+  },
+  "processing_metadata": {
+    "audio_file_path": "data/audio_cache/recording_20250710_231438.wav",
+    "audio_file_size": 1249964,
+    "processing_timestamp": "2025-07-10T23:14:40.425453",
+    "pipeline_version": "1.0"
+  },
+  "status": "processed"
+}

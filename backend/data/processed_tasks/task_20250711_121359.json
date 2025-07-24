@@ -1,0 +1,53 @@
+{
+  "task_id": "task_20250711_121359",
+  "timestamp": "2025-07-11T12:13:59.427282",
+  "audio_filename": "recording_20250711_121358.wav",
+  "transcription": "Task Plumbing to be started, category construction, user Bob Deadline Monday.",
+  "task_data": {
+    "title": "Plumbing to be started",
+    "assignee": "Bob",
+    "category": "Construction",
+    "deadline": "2025-07-07T00:00:00",
+    "success": true,
+    "errors": [],
+    "assignee_similarity": [
+      [
+        "Bob",
+        1.0
+      ],
+      [
+        "Alice",
+        0.0
+      ],
+      [
+        "Charlie",
+        0.0
+      ],
+      [
+        "Ali",
+        0.0
+      ]
+    ],
+    "category_similarity": [
+      [
+        "Construction",
+        0.7272727272727273
+      ],
+      [
+        "Inspection",
+        0.45161290322580644
+      ],
+      [
+        "Maintenance",
+        0.125
+      ]
+    ]
+  },
+  "processing_metadata": {
+    "audio_file_path": "data/audio_cache/recording_20250711_121358.wav",
+    "audio_file_size": 852524,
+    "processing_timestamp": "2025-07-11T12:13:59.427266",
+    "pipeline_version": "1.0"
+  },
+  "status": "processed"
+}

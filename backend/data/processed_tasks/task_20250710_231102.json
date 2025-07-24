@@ -1,0 +1,53 @@
+{
+  "task_id": "task_20250710_231102",
+  "timestamp": "2025-07-10T23:11:02.334341",
+  "audio_filename": "recording_20250710_231101.wav",
+  "transcription": "Task, Check it, category, Maintenance, User, Ily deadline Friday.",
+  "task_data": {
+    "title": "Check it",
+    "assignee": "Ali",
+    "category": "Maintenance",
+    "deadline": "2025-07-11T00:00:00",
+    "success": true,
+    "errors": [],
+    "assignee_similarity": [
+      [
+        "Ali",
+        0.3333333333333333
+      ],
+      [
+        "Alice",
+        0.25
+      ],
+      [
+        "Charlie",
+        0.2
+      ],
+      [
+        "Bob",
+        0.0
+      ]
+    ],
+    "category_similarity": [
+      [
+        "Maintenance",
+        0.7096774193548387
+      ],
+      [
+        "Inspection",
+        0.26666666666666666
+      ],
+      [
+        "Construction",
+        0.125
+      ]
+    ]
+  },
+  "processing_metadata": {
+    "audio_file_path": "data/audio_cache/recording_20250710_231101.wav",
+    "audio_file_size": 1140524,
+    "processing_timestamp": "2025-07-10T23:11:02.334327",
+    "pipeline_version": "1.0"
+  },
+  "status": "processed"
+}

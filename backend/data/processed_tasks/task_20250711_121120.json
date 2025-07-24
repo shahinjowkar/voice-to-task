@@ -1,0 +1,53 @@
+{
+  "task_id": "task_20250711_121120",
+  "timestamp": "2025-07-11T12:11:20.804684",
+  "audio_filename": "recording_20250711_121118.wav",
+  "transcription": "Task testing the software, category maintenance user, ILE deadline Monday.",
+  "task_data": {
+    "title": "testing software",
+    "assignee": "Alice",
+    "category": "Maintenance",
+    "deadline": "2025-07-07T00:00:00",
+    "success": true,
+    "errors": [],
+    "assignee_similarity": [
+      [
+        "Alice",
+        0.5
+      ],
+      [
+        "Charlie",
+        0.4
+      ],
+      [
+        "Ali",
+        0.3333333333333333
+      ],
+      [
+        "Bob",
+        0.0
+      ]
+    ],
+    "category_similarity": [
+      [
+        "Maintenance",
+        0.7096774193548387
+      ],
+      [
+        "Inspection",
+        0.26666666666666666
+      ],
+      [
+        "Construction",
+        0.125
+      ]
+    ]
+  },
+  "processing_metadata": {
+    "audio_file_path": "data/audio_cache/recording_20250711_121118.wav",
+    "audio_file_size": 950444,
+    "processing_timestamp": "2025-07-11T12:11:20.804670",
+    "pipeline_version": "1.0"
+  },
+  "status": "processed"
+}

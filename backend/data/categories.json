@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "title": "Maintenance",
+    "image": "https://images.pexels.com/photos/4050291/pexels-photo-4050291.jpeg?auto=compress&w=400&h=250&fit=crop",
+    "tasks": [
+      {
+        "title": "this is task",
+        "assignee": "Ali",
+        "deadline": "2025-07-11T00:00:00",
+        "description": ""
+      },
+      {
+        "title": "go to office tomorrow and sign this contract",
+        "assignee": "Ali",
+        "deadline": "2025-07-05T00:00:00",
+        "description": ""
+      },
+      {
+        "title": "testing software",
+        "assignee": "Alice",
+        "deadline": "2025-07-07T00:00:00",
+        "description": ""
+      },
+      {
+        "title": "test 2",
+        "assignee": "Bob",
+        "deadline": "2025-07-05T00:00:00",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Inspection",
+    "image": "https://images.pexels.com/photos/1181696/pexels-photo-1181696.jpeg?auto=compress&w=400&h=250&fit=crop",
+    "tasks": [
+      {
+        "title": "Clean Room",
+        "assignee": "Alice",
+        "deadline": "2025-07-05T00:00:00",
+        "description": ""
+      },
+      {
+        "title": "this is task to see if this web app works properly or not",
+        "assignee": "Ali",
+        "deadline": "2026-01-03T00:00:00",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Construction",
+    "image": "https://images.pexels.com/photos/1181355/pexels-photo-1181355.jpeg?auto=compress&w=400&h=250&fit=crop",
+    "tasks": [
+      {
+        "title": "go to construction site and fix some issues",
+        "assignee": "Bob",
+        "deadline": null,
+        "description": ""
+      },
+      {
+        "title": "Test Tree",
+        "assignee": "Bob",
+        "deadline": "2025-07-06T00:00:00",
+        "description": ""
+      },
+      {
+        "title": "Plumbing to be started",
+        "assignee": "Bob",
+        "deadline": "2025-07-07T00:00:00",
+        "description": ""
+      },
+      {
+        "title": "Testing",
+        "assignee": "Bob",
+        "deadline": "2025-07-11T00:00:00",
+        "description": ""
+      }
+    ]
+  }
+]

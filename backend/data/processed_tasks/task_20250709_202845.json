@@ -1,0 +1,53 @@
+{
+  "task_id": "task_20250709_202845",
+  "timestamp": "2025-07-09T20:28:45.413515",
+  "audio_filename": "recording_20250709_202844.wav",
+  "transcription": "Task Clean your room. Category Maintenance User Ali. Date. Next Friday.",
+  "task_data": {
+    "title": "Clean your room .",
+    "assignee": "Ali . Date . Next Friday .",
+    "category": "Maintenance",
+    "deadline": null,
+    "success": true,
+    "errors": [],
+    "assignee_similarity": [
+      [
+        "Alice",
+        0.25806451612903225
+      ],
+      [
+        "Charlie",
+        0.24242424242424243
+      ],
+      [
+        "Ali",
+        0.20689655172413793
+      ],
+      [
+        "Bob",
+        0.0
+      ]
+    ],
+    "category_similarity": [
+      [
+        "Maintenance",
+        0.4074074074074074
+      ],
+      [
+        "Inspection",
+        0.1509433962264151
+      ],
+      [
+        "Construction",
+        0.07272727272727272
+      ]
+    ]
+  },
+  "processing_metadata": {
+    "audio_file_path": "data/audio_cache/recording_20250709_202844.wav",
+    "audio_file_size": 1100204,
+    "processing_timestamp": "2025-07-09T20:28:45.413489",
+    "pipeline_version": "1.0"
+  },
+  "status": "processed"
+}

@@ -1,0 +1,53 @@
+{
+  "task_id": "task_20250710_231411",
+  "timestamp": "2025-07-10T23:14:11.344809",
+  "audio_filename": "recording_20250710_231410.wav",
+  "transcription": "Task Clean the Room category inspection user at least deadline Saturday.",
+  "task_data": {
+    "title": "Clean Room",
+    "assignee": "Alice",
+    "category": "Inspection",
+    "deadline": "2025-07-05T00:00:00",
+    "success": true,
+    "errors": [],
+    "assignee_similarity": [
+      [
+        "Alice",
+        0.46153846153846156
+      ],
+      [
+        "Charlie",
+        0.4
+      ],
+      [
+        "Ali",
+        0.36363636363636365
+      ],
+      [
+        "Bob",
+        0.0
+      ]
+    ],
+    "category_similarity": [
+      [
+        "Inspection",
+        0.5882352941176471
+      ],
+      [
+        "Construction",
+        0.3888888888888889
+      ],
+      [
+        "Maintenance",
+        0.2857142857142857
+      ]
+    ]
+  },
+  "processing_metadata": {
+    "audio_file_path": "data/audio_cache/recording_20250710_231410.wav",
+    "audio_file_size": 1071404,
+    "processing_timestamp": "2025-07-10T23:14:11.344787",
+    "pipeline_version": "1.0"
+  },
+  "status": "processed"
+}

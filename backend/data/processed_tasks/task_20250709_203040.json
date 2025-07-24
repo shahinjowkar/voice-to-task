@@ -1,0 +1,55 @@
+{
+  "task_id": "task_20250709_203040",
+  "timestamp": "2025-07-09T20:30:40.098749",
+  "audio_filename": "recording_20250709_203039.wav",
+  "transcription": "Task, clean your room, category maintenance, user, thoroughly, deadline, next Friday.",
+  "task_data": {
+    "title": "clean your room",
+    "assignee": "Charlie",
+    "category": "Maintenance",
+    "deadline": null,
+    "success": true,
+    "errors": [
+      "Could not parse deadline: , next Friday ."
+    ],
+    "assignee_similarity": [
+      [
+        "Charlie",
+        0.35294117647058826
+      ],
+      [
+        "Bob",
+        0.15384615384615385
+      ],
+      [
+        "Ali",
+        0.15384615384615385
+      ],
+      [
+        "Alice",
+        0.13333333333333333
+      ]
+    ],
+    "category_similarity": [
+      [
+        "Maintenance",
+        0.5789473684210527
+      ],
+      [
+        "Inspection",
+        0.21621621621621623
+      ],
+      [
+        "Construction",
+        0.10256410256410256
+      ]
+    ]
+  },
+  "processing_metadata": {
+    "audio_file_path": "data/audio_cache/recording_20250709_203039.wav",
+    "audio_file_size": 1192364,
+    "processing_timestamp": "2025-07-09T20:30:40.098728",
+    "pipeline_version": "1.0"
+  },
+  "status": "processed"
+}
